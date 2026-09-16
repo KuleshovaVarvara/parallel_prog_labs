@@ -399,3 +399,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# PyCharm
+.idea/
+
+# Результаты вычислений
+lab1/src/output/result.txt
+lab1/src/output/info.txt
