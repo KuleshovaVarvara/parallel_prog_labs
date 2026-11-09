@@ -215,7 +215,6 @@ python lab2/experiments.py
 python lab2/plot_graphs.py
 ```
 ---
----
 
 # Лабораторная работа №3: MPI умножение матриц
 
