@@ -415,6 +415,6 @@ cat output/matrix_report.txt
 
 - **Лаба №1 — Умножение матриц** ✅
 - **Лаба №2 — OpenMP** ✅
-- Лаба №3 — MPI
+- **Лаба №3 — MPI** ✅
 - **Лаба №4 — CUDA** ✅
 - **Лаба №5 — Stanford CS149** ✅
